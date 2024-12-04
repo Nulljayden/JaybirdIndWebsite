@@ -2,7 +2,7 @@ body {
     background-color: darkgray;
 }
 .HeaderTable {
-    justify-content:space-between;
+    justify-content:space-around;
     display: flex;
-    width: -webkit-fill-available;
+    width: auto;
 }
