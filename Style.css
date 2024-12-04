@@ -3,5 +3,5 @@ body {
 }
 .HeaderTable {
     justify-content:space-between;
-    
+    display: flex;
 }
